@@ -1,5 +1,10 @@
 # Full Stack AI Fianace Platform with Next JS, Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI 
 
+```
+npm install
+```
+
+
 
 ### Make sure to create a `.env` file with following variables -
 
@@ -17,4 +22,8 @@ NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
 GEMINI_API_KEY=
 
 RESEND_API_KEY=
+```
+Start
+```
+npm run dev
 ```
